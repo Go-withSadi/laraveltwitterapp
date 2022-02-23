@@ -1,7 +1,7 @@
 # laraveltwitterapp
 This an app made over for a twitter similar app using laravel and vue
 
-How to use on github
+How to use on github:
 Clone the repo and go into the folder.
 Type the following command: composer install
 Install npm dependencies: npm install
